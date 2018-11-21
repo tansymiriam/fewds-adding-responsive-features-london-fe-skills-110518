@@ -1,0 +1,28 @@
+@media (max-width: 11080px) {
+  .wrapper {
+    width:90%;
+  }
+  #social {
+    position: absolute;
+    top:82px;
+    right:4px;
+    width: auto;
+  }
+  
+}
+@media (max-width: 900px) {
+body{
+  font-size:85%;
+}
+  #logo h1 {
+  height:35px;
+  width:35px;
+}  
+#logo h2{
+  font-size:2.2em;
+}
+#social {
+  top: 72px;
+}
+
+}
